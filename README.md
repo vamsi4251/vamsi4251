@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 I'm, Vamsi Krishna </h1>
 
 ---
-<img align="right" width=300 alt="coding" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" width=250 alt="coding" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 An engineering student with a strong passion for developing web applications using React for the frontend, Java for server-side logic, and MySQL for database management.
 
 - 📝 See my [<img height=20 src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logoColor=white">](https://portfoilo-e7799.web.app/) Here. 
